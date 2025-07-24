@@ -1,14 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Krunal Bhavsar</h1>
-<h3 align="center">Software Development Engineer | DevOps Enthusiast | Cloud-Native Builder</h3>
+<h3 align="center">Software Development Engineer | Cloud & DevOps Enthusiast | Full-Stack Builder</h3>
 
 ---
 
-💻 Currently building scalable systems at **MTA (NYC Transit)**  
-🎓 M.S. in Computer Science from **Pace University**, NYC  
-🌐 Solved **680+ DSA problems** on LeetCode & Codewars  
-🚀 Passionate about **System Design**, **Cloud Infrastructure**, and **Generative AI**  
-🔧 Previously improved infrastructure for 500+ engineers at **Crest Data (Splunk)**  
-📬 Reach out: [LinkedIn](https://linkedin.com/in/krunalbhavsar) | [Email](mailto:krunal061599@gmail.com)
+💻 Currently building scalable platforms at **MTA (NYC Transit)**  
+🎓 Master’s in Computer Science from **Pace University**  
+🌐 Solved **680+ DSA problems** on LeetCode  
+🚀 Passionate about **Cloud Infrastructure**, **System Design**, and **Generative AI**  
+📫 Reach out: [LinkedIn](https://linkedin.com/in/krunalbhavsar) | [LeetCode](https://leetcode.com/u/Krunal_Bhavsar_Pace/)
 
 ---
 
@@ -27,57 +26,51 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=krunalbhavsar&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krunalbhavsar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krunalbhavsar&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 
-- 🔗 [**ParkEZ (Live App)**](https://parkez.gruevy.com) | [GitHub Repo](https://github.com/krunalbhavsar/ParkEZ)  
-  Smart parking management system (9-member team). Optimized for real-time lot tracking and QR access control.
+#### 🔗 [ParkEZ (Live App)](https://parkez.gruevy.com)
+Smart parking system with QR-based access control and real-time lot availability.
 
-- 🔗 [**DevOps-AWS-Pipeline**](https://github.com/krunalbhavsar/aws-devops-pipeline)  
-  Deployed full-stack applications with CI/CD using AWS Lambda, CodePipeline, S3, EC2, and Docker.
-
-- 🔗 [**DSA-Solutions**](https://github.com/krunalbhavsar/dsa-solutions)  
-  Solutions to 680+ LeetCode and Codeforces problems, annotated with explanations and time-space analysis.
-
-- 🔗 [**QuickBook**](https://github.com/krunalbhavsar/quick-book)  
-  MERN stack project to streamline booking for concerts/movies with role-based authentication.
-
-- 🔗 [**Pyraminx Solver**](https://github.com/krunalbhavsar/pyraminx-solver)  
-  C++ implementation of a Pyraminx solver using BFS and pruning-based optimization.
-
-- 🔗 [**Space Invader Game**](https://github.com/krunalbhavsar/space-invader)  
-  Classic 2D space shooter built in Python using PyGame. Implements game loops and collision mechanics.
+<img src="https://user-images.githubusercontent.com/87542018/234577990-26e9a236-e431-4e3d-8a2d-30cfacc9f281.png" alt="ParkEZ Demo" width="100%" />
 
 ---
 
-### 🎯 Resume Highlights
+#### 🎮 [Space Invader Game](https://github.com/krunal-bhavsar/Space-Invader)
+Classic 2D space shooter built in Python using PyGame.
 
-- ⏱️ Reduced AWS Lambda latency to **<100ms** for 1M+ daily requests at MTA  
-- 📊 Built 5+ **Power BI** dashboards improving escalator/elevator reliability tracking  
-- 💸 Saved **25% in platform costs** via query optimization and caching  
-- 📦 Maintained **99.98% uptime** in production environments at Crest Data using Terraform & Jenkins  
-- 🔍 Implemented **real-time monitoring** with Prometheus + Grafana across AWS workloads
+<img src="https://user-images.githubusercontent.com/87542018/234578111-71bdbf60-5dd7-4c2e-bc9e-77b1a4e987ed.gif" alt="Space Invader" width="100%" />
+
+---
+
+#### 🧠 [Pyraminx Solver](https://github.com/krunal-bhavsar/Pyraminx-Solver)
+C++ implementation of Pyraminx cube solver using BFS and optimization techniques.
+
+<img src="https://user-images.githubusercontent.com/87542018/234578236-30608c2f-b9da-4e7f-80a6-3d40cf40d933.png" alt="Pyraminx Solver" width="100%" />
+
+---
+
+#### 🎫 [QuickBook](https://github.com/Mahith-1206/QuickBook)
+MERN stack ticket booking web app with role-based access for movies and concerts.
+
+<img src="https://user-images.githubusercontent.com/87542018/234578333-2b154a5e-6d9e-4e7d-8608-e183b7711975.png" alt="QuickBook" width="100%" />
+
+---
+
+### 📜 Certifications
+
+[![Certificate 1](https://img.shields.io/badge/Udemy-System_Design-blueviolet?style=for-the-badge&logo=udemy)](https://www.udemy.com/certificate/UC-2d25a80f-a904-4371-8d88-7a8f57649599/)  
+[![Certificate 2](https://img.shields.io/badge/Udemy-Power_BI-orange?style=for-the-badge&logo=udemy)](https://www.udemy.com/certificate/UC-655a3c43-f469-43bd-bd0a-6342f289d833/)  
+[![Certificate 3](https://img.shields.io/badge/Udemy-Python-blue?style=for-the-badge&logo=udemy)](https://www.udemy.com/certificate/UC-29ca0fef-25ed-48f0-9037-766cf8b476a2/)  
+[![Certificate 4](https://img.shields.io/badge/Udemy-SQL_(PostgreSQL)-informational?style=for-the-badge&logo=udemy)](https://www.udemy.com/certificate/UC-6c11127c-733e-46ac-b008-61d0849db62e/)  
+[![Certificate 5](https://img.shields.io/badge/Udemy-Linux-green?style=for-the-badge&logo=udemy)](https://www.udemy.com/certificate/UC-90e41dd1-da28-47d6-bd9c-f47bb5d0406d/)
 
 ---
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/krunalbhavsar)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/krunalbhavsar)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/krunalbhavsar)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Krunal_Bhavsar_Pace/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krunalbhavsar)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio-link.com)
 
 ---
 
