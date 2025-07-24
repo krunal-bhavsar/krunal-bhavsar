@@ -28,31 +28,17 @@
 
 ### 🚀 Featured Projects
 
-#### 🔗 [ParkEZ (Live App)](https://parkez.gruevy.com)
-Smart parking system with QR-based access control and real-time lot availability.
+- 🔗 [**ParkEZ (Live Demo)**](https://parkez.gruevy.com)  
+  Smart parking system with QR-based access control and real-time availability tracking.
 
-<img src="https://user-images.githubusercontent.com/87542018/234577990-26e9a236-e431-4e3d-8a2d-30cfacc9f281.png" alt="ParkEZ Demo" width="100%" />
+- 🎮 [**Space Invader Game**](https://github.com/krunal-bhavsar/Space-Invader)  
+  Classic 2D space shooter built in Python using PyGame.
 
----
+- 🧠 [**Pyraminx Solver**](https://github.com/krunal-bhavsar/Pyraminx-Solver)  
+  C++ implementation of Pyraminx cube solver using BFS and optimization techniques.
 
-#### 🎮 [Space Invader Game](https://github.com/krunal-bhavsar/Space-Invader)
-Classic 2D space shooter built in Python using PyGame.
-
-<img src="https://user-images.githubusercontent.com/87542018/234578111-71bdbf60-5dd7-4c2e-bc9e-77b1a4e987ed.gif" alt="Space Invader" width="100%" />
-
----
-
-#### 🧠 [Pyraminx Solver](https://github.com/krunal-bhavsar/Pyraminx-Solver)
-C++ implementation of Pyraminx cube solver using BFS and optimization techniques.
-
-<img src="https://user-images.githubusercontent.com/87542018/234578236-30608c2f-b9da-4e7f-80a6-3d40cf40d933.png" alt="Pyraminx Solver" width="100%" />
-
----
-
-#### 🎫 [QuickBook](https://github.com/Mahith-1206/QuickBook)
-MERN stack ticket booking web app with role-based access for movies and concerts.
-
-<img src="https://user-images.githubusercontent.com/87542018/234578333-2b154a5e-6d9e-4e7d-8608-e183b7711975.png" alt="QuickBook" width="100%" />
+- 🎫 [**QuickBook**](https://github.com/Mahith-1206/QuickBook)  
+  MERN stack ticket booking web app for movies and concerts with role-based access.
 
 ---
 
