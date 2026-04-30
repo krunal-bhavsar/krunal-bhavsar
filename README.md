@@ -52,9 +52,9 @@
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Other Profile
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/krunalbhavsar)  
+
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Krunal_Bhavsar_Pace/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krunalbhavsar)
 
