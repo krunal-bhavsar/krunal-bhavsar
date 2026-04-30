@@ -7,7 +7,7 @@
 🎓 Master’s in Computer Science from **Pace University**  
 🌐 Solved **680+ DSA problems** on LeetCode  
 🚀 Passionate about **Cloud Infrastructure**, **System Design**, and **Generative AI**  
-📫 Reach out: [LinkedIn](https://linkedin.com/in/krunalbhavsar) | [LeetCode](https://leetcode.com/u/Krunal_Bhavsar_Pace/)
+📫 Leet code: [LeetCode](https://leetcode.com/u/Krunal_Bhavsar_Pace/)
 
 ---
 
